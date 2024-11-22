@@ -1,7 +1,7 @@
 ---
 body: ''
 content_type: resource
-draft: false
+draft: true
 file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture06_refractive_2-new_360p_16_9.mp4
 file_size: 113515791
 file_type: video/mp4
@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 6: Refractive Index Diagnostics II'
+title: 'Lecture 6: Refractive Index Diagnostics II (old)'
 uid: b7ff40e2-bc64-4c2f-9518-1c09acbc30eb
 video_files:
   archive_url: ''

@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 5: Refractive Index Diagnostics I'
+title: 'Lecture 5: Refractive Index Diagnostics I (old)'
 uid: 946784fc-75e1-480c-a025-01a4f5cfac42
 video_files:
   archive_url: ''
