@@ -13,7 +13,8 @@ learning_resource_types:
 - Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: '22.67J Principles of Plasma Diagnostics (Fall 2023): Final Exam Example'
+title: A Summary of Collective Optical Thomson Scattering in Pulsed-Power Driven High
+  Energy Density Physics Experiments
 uid: facacb2c-7e2b-4412-9621-fa84446d92f8
 video_files:
   archive_url: ''

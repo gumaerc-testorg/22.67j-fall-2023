@@ -36,6 +36,7 @@ This course is an introduction to the physical processes used to measure the pro
 
 ## Textbooks
 
+- Hutchinson, I. H. *Principles of Plasma Diagnostics*,  2<sup>nd</sup> edition. Cambridge University Press, 2002. ISBN: 9780511613630.
 - Lieberman, Michael A. and Alan J. Lichtenberg. *Principles of Plasma Discharges and Materials Processing,* 2<sup>nd</sup> edition. Wiley, 2005. ISBN: 9780471720010.
 - Settles, G.S. *Schlieren and Shadowgraph Techniques*. Springer, 2006. ASIN: B019NE3S0W.
 - Sheffield, John, Dustin Froula, Siegfried H. Glenzer, and Neville C. Luhmann, Jr. *Plasma Scattering of Electromagnetic Radiation,* 2<sup>nd</sup> edition. Elsevier, 2011. Hardback ISBN: 9780123748775. eBook ISBN: 9780080952031.
