@@ -13,7 +13,7 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 9: Refractive Index Diagnostics V: Abel and Faraday'
+title: 'Lecture 9: Refractive Index Diagnostics V: Abel and Faraday (old)'
 uid: 8422ba42-1fb9-40c8-9f44-3858d68ef3c2
 video_files:
   archive_url: ''

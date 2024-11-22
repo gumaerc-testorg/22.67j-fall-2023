@@ -2,20 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/mit22_67j_f23_final_exam.pdf
-file_size: 1019285
-file_type: application/pdf
+file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture08_refractive_4-v3_captions.vtt
+file_size: 166806
+file_type: text/vtt
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Exam Materials
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: A Summary of Collective Optical Thomson Scattering in Pulsed-Power Driven High
-  Energy Density Physics Experiments
-uid: facacb2c-7e2b-4412-9621-fa84446d92f8
+title: OCW_22.67_Lecture08_Refractive_4-V3_captions.vtt
+uid: 3a8c081a-d18b-4173-9c63-6eaeebb791ce
 video_files:
   archive_url: ''
   video_captions_file: ''

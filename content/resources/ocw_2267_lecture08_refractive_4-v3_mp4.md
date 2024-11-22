@@ -1,9 +1,9 @@
 ---
 body: ''
 content_type: resource
-draft: true
-file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture08_refractive_4-new_360p_16_9.mp4
-file_size: 138753946
+draft: false
+file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture08_refractive_4-v3_360p_16_9.mp4
+file_size: 138692788
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -13,13 +13,13 @@ learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Lecture 8: Refractive Index Diagnostics IV (old)'
-uid: 4d99dce5-f1a2-4188-9a51-add1637cd12c
+title: 'Lecture 8: Refractive Index Diagnostics IV'
+uid: 8eb00b7e-e8b5-43d6-99e1-a9f33b9e766c
 video_files:
   archive_url: ''
-  video_captions_file: /courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture08_refractive_4-new_captions.vtt
-  video_thumbnail_file: https://img.youtube.com/vi/H4Hs01bDNz8/default.jpg
-  video_transcript_file: /courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture08_refractive_4-new_transcript.pdf
+  video_captions_file: /courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture08_refractive_4-v3_captions.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/tR-mj5pYNSs/default.jpg
+  video_transcript_file: /courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture08_refractive_4-v3_transcript.pdf
 video_metadata:
   video_speakers: ''
   video_tags: two-color interferometry, spatial heterodyning, interferometry
@@ -32,6 +32,6 @@ video_metadata:
     We encourage constructive comments and discussion on OCW\u2019s YouTube and other\
     \ social media channels. Personal attacks, hate speech, trolling, and inappropriate\
     \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
-  youtube_id: H4Hs01bDNz8
+  youtube_id: tR-mj5pYNSs
 ---
 Spatial heterodyning of interferometry, two-color interferometry.
