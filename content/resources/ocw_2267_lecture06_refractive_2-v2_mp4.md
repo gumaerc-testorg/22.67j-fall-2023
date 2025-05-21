@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture06_refractive_2-v2_360p_16_9.mp4
+file: courses/principles-of-plasma-diagnostics/ocw_2267_lecture06_refractive_2-v2_360p_16_9.mp4
 file_size: 113779404
 file_type: video/mp4
 image_metadata:
