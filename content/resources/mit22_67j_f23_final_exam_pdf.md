@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/mit22_67j_f23_final_exam.pdf
+file: courses/principles-of-plasma-diagnostics/mit22_67j_f23_final_exam.pdf
 file_size: 1019285
 file_type: application/pdf
 image_metadata:

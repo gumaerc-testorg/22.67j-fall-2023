@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture10_refractive_6-new_captions.vtt
+file: courses/principles-of-plasma-diagnostics/ocw_2267_lecture10_refractive_6-new_captions.vtt
 file_size: 137881
 file_type: text/vtt
 image_metadata:
