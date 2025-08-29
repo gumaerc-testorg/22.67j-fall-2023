@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/principles-of-plasma-diagnostics/mit22_67j_f23_final_exam.pdf
+file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/mit22_67j_f23_final_exam.pdf
 file_size: 1019285
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Supplemental Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: A Summary of Collective Optical Thomson Scattering in Pulsed-Power Driven High
