@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/principles-of-plasma-diagnostics/ocw_2267_lecture18_neutral_particles_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture18_neutral_particles_360p_16_9.mp4
 file_size: 129940568
 file_type: video/mp4
 image_metadata:

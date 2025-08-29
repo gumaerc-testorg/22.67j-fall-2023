@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/principles-of-plasma-diagnostics/ocw_2267_lecture05_refractive_1-new_transcript.pdf
+file: /ol-ocw-studio-app/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/ocw_2267_lecture05_refractive_1-new_transcript.pdf
 file_size: 114855
 file_type: application/pdf
 image_metadata:
